@@ -8,7 +8,9 @@ using namespace std;
 
 int main()
 {
+	int n;
 	cout << "hello world" << endl;
+	cin >> n;
     return 0;
 }
 
