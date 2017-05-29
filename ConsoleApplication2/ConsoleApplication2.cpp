@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 	int n;
-	cout << "hello world" << endl;
+	cout << "hello world from branch A" << endl;
 	cin >> n;
 	cout << n;
     return 0;
