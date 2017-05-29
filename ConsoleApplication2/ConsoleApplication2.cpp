@@ -11,6 +11,7 @@ int main()
 	int n;
 	cout << "hello world" << endl;
 	cin >> n;
+	cout << n;
     return 0;
 }
 
